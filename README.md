@@ -1,3 +1,3 @@
 # networkingLab
 
-Reports of Network Programming Lab ( CS 334 )
+Reports and programs of Network Programming Lab ( CS 334 )
